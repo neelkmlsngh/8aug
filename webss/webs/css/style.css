@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+.bckgrd{
+	background-color: black;
+}
+.newsest{
+	background-image:url(../image/news-3.jpg);
+}
+.news{
+	background-image:url(../image/news-3.jpg);
+	color:#FFF;
+	font-size:70px;
+}
+.trend{
+	margin-left:20px;
+}
+.gujrat{
+	color:#000;
+}
+.pm{
+	color:#000;
+	text-align:right;
+}
+.got{
+	color:#000;
+}
+.page{
+	text-align: center;
+}
+.chinese{
+	color: #000;
+}
+.foot{
+	background-color: black;
+}
+.uul{
+  list-style-type: none;
+}
+.te{
+	color: white;
+}
+.para{
+	color: white;
+}
+.foots{
+	background-color: #594545;
+}
